@@ -26,6 +26,14 @@ header{
     text-align: right;
 }
 
+.project_title{
+    color: #2d3c49;
+}
+
+hr{
+    color: #7d97ad;
+}
+
 body, p{
     background-color: whitesmoke;
     /*font-size: 1.3em;*/
@@ -45,6 +53,11 @@ body, p{
     }
     img{
         max-width: 100%;
+        margin: auto;
+        display: block;
+    }
+    h3{
+        text-align: center;
     }
 
   

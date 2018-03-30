@@ -4,14 +4,17 @@ Tasks
     -Header +
     -Main image +
     -Projects
+        -MovieDB +
+        -CodepenPage +
+        -Example Project +
 
 1-Design Mobile Phone
-    -Fix header overflow problem in nexus4
-    -pick smaller photo for mobile, flatter photo.
-    -add projects as a same class div
+    -Fix header overflow problem in nexus4 +
+    -pick smaller photo for mobile, flatter photo. +
+    -add projects as a same class div +
         -fill those divs with project's:
-            -image
-            -Name
+            -image +
+            -Name +
             -github link
 2-Design Ipad
 3-Design Desktop

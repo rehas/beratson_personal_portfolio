@@ -15,6 +15,6 @@ Tasks
         -fill those divs with project's:
             -image +
             -Name +
-            -github link
+            -github link+
 2-Design Ipad
 3-Design Desktop

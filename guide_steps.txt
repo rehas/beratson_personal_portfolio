@@ -16,5 +16,8 @@ Tasks
             -image +
             -Name +
             -github link+
-2-Design Ipad
-3-Design Desktop
+2-Design Ipad + 
+3-Design Desktop+ 
+
+4-Comply with udacity rubrick
+5-CSS , HTML validate
